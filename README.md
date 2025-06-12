@@ -7,6 +7,7 @@
 ## Overview
 ## Viewer Instructions
 
+1. [Challenge 1: QR Code Component](./01_qr_code_component/index.html) (*NB: This is meant to be viewed at 1440x960 and 375x812, as specified in the given Figma design.*)
 
 ### Scenario
 In a professional setting, developers often work from detailed Figma designs to build high-quality, pixel-perfect web components. To strengthen your development skills, this lab will introduce you to Frontend Mentor, a tool providing real-world coding challenges. Frontend Mentor will help you practice translating Figma designs into HTML and CSS and give you a taste of professional front-end development workflows. The hands-on challenges will enhance your proficiency with core web development tools and refine your ability to implement design specifications accurately.
