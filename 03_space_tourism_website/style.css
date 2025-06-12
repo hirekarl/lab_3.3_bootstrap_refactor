@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1440px;
+    height: 1024px;
+}
+
+header {
+    width: 1440px;
+    height: 136px;
+}
