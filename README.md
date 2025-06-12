@@ -5,7 +5,7 @@
 <date datetime="2025-06-12">2025-06-12</date>  
 
 ## TODO:
-- [ ] Challenge 1: Fix responsiveness issue (needs to adapt smoothly to screen size changes.)
+- [x] Challenge 1: Fix responsiveness issue (needs to adapt smoothly to screen size changes.)
 - [ ] Challenge 2
 - [ ] Challenge 3
 
