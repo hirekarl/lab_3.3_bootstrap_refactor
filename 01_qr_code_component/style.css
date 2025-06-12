@@ -1,3 +1,5 @@
+/* Root */
+
 :root {
     --color-white: hsl(0, 0%, 100%);
     --color-black: rgba(0, 0, 0, 0.05);
@@ -17,6 +19,8 @@ body {
     background-color: var(--color-slate-300);
 }
 
+/* Typography */
+
 .outfit-regular {
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
@@ -30,6 +34,8 @@ body {
     font-weight: 700;
     font-style: normal;
 }
+
+/* Card */
 
 .card-container {
     display: flex;
