@@ -6,7 +6,7 @@
 
 ## TODO:
 - [x] Challenge 1: Fix responsiveness issue (needs to adapt smoothly to screen size changes.)
-- [x] Challenge 2
+- [x] Challenge 2: Add hover color to blog header and cursor to pointer
 - [ ] Challenge 3
 
 ## Overview
