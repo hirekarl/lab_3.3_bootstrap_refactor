@@ -19,7 +19,7 @@
 
 ### Source
 1. [Challenge 1: QR Code Component](./01_qr_code_component/index.html)
-2. 
+2. [Challenge 2: Blog Preview Card](./02_blog_preview_card/index.html)
 3. 
 
 ### Scenario
