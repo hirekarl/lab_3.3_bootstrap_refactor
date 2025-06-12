@@ -1,0 +1,78 @@
+:root {
+    --color-white: hsl(0, 0%, 100%);
+    --color-slate-300: hsl(212, 45%, 89%);
+    --color-slate-500: hsl(216, 15%, 48%);
+    --color-slate-900: hsl(218, 44%, 22%)
+} 
+
+html, body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: auto;
+    background-color: var(--color-slate-300);
+}
+
+.outfit-regular {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.outfit-bold {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.card {
+    background-color: var(--color-white);
+    padding: 16px;
+    border-radius: 20px;
+    margin: 25vh auto 25vh auto;
+    max-height: 50vh;
+    width: 20vw;
+    display: flex;
+    gap: 8px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 375px) {
+    .card {
+        width: 80vw;
+        margin: 20vh auto 20vh auto;
+        max-height: 60vh;
+    }
+}
+
+.card-contents {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.qr-code {
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.card-caption {
+    width: 100%;
+    text-align: center;
+}
+
+.card-caption-header {
+    color: var(--color-slate-900);
+    font-size: 24px;
+}
+
+.card-caption-body {
+    color: var(--color-slate-500);
+    font-size: 15px;
+}
