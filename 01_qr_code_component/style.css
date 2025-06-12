@@ -81,7 +81,7 @@ body {
 
 .card-caption-body {
     color: var(--color-slate-500);
-    margin: 8px 16px 0 16px;
+    margin: 16px 16px 0 16px;
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.2px;
