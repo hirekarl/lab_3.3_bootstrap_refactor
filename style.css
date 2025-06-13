@@ -1,0 +1,106 @@
+:root {
+    --color-charcoal: #171d22;
+    --color-light-pink: #ffd0d6;
+    --color-white: #fff;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--color-light-pink);
+    color: var(--color-charcoal);
+    width: 50%;
+    margin: 0 auto;
+    max-width: 680px;
+    min-height: 90vh;
+}
+
+.montserrat-medium {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserrat-bold {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+header {
+    margin: 72px auto 24px auto;
+    text-align: center;
+}
+
+.challenges {
+    display: block;
+    margin: 72px auto 48px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+
+@media screen and (max-width: 680px) {
+    body {
+        min-height: 100vh;
+    }
+    .challenges {
+        margin: 48px auto 96px auto;
+        flex-direction: column;
+        gap: 48px;
+    }
+}
+
+.challenge-card {
+    background-color: var(--color-white);
+    display: block;
+    width: 290px;
+    height: 100%;
+    border: 1px solid var(--color-charcoal);
+    border-radius: 24px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.33s ease-in-out;
+
+}
+
+.challenge-card:hover {
+    box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.25);
+    transform: translate3d(0px, -12px, 0px);
+    cursor: pointer;
+}
+
+.challenge-card-content {
+    margin: 24px;
+    width: 240px;
+}
+
+.challenge-card-thumbnail {
+    width: 240px;
+    height: 240px;
+    border-radius: 12px;
+}
+
+#challenge-1-thumbnail {
+    background-image: url('./images/challenge_1_thumbnail.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#challenge-2-thumbnail {
+    background-image: url('./images/challenge_2_thumbnail.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.challenge-card-title {
+    margin-top: 24px;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
