@@ -9,15 +9,12 @@
 ## Overview
 ## Viewer Instructions
 
-### Deployments
-1. TODO
-2. TODO
-3. TODO
+View the deployed app at [unrivaled-macaron-304227.netlify.app](https://unrivaled-macaron-304227.netlify.app/), or view individual challenge submissions below.
 
-### Source
-1. [Challenge 1: QR Code Component](./01_qr_code_component/index.html)
-2. [Challenge 2: Blog Preview Card](./02_blog_preview_card/index.html)
-3. ~~Challenge 3: Space Tourism Multi-Page Website~~ (*in progress*)
+### Challenges
+1. [Challenge 1: QR Code Component](https://unrivaled-macaron-304227.netlify.app/01_qr_code_component/index.html) ([source](./01_qr_code_component/))
+2. [Challenge 2: Blog Preview Card](https://unrivaled-macaron-304227.netlify.app/02_blog_preview_card/index.html) ([source](./02_blog_preview_card/))
+3. *TODO*
 
 ### Scenario
 In a professional setting, developers often work from detailed Figma designs to build high-quality, pixel-perfect web components. To strengthen your development skills, this lab will introduce you to Frontend Mentor, a tool providing real-world coding challenges. Frontend Mentor will help you practice translating Figma designs into HTML and CSS and give you a taste of professional front-end development workflows. The hands-on challenges will enhance your proficiency with core web development tools and refine your ability to implement design specifications accurately.
