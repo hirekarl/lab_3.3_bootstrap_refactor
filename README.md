@@ -8,10 +8,10 @@
 
 ## Overview
 ## Viewer Instructions
-
 View the deployed app at [unrivaled-macaron-304227.netlify.app](https://unrivaled-macaron-304227.netlify.app/), or view individual challenge submissions below.
 
 ### Challenge Solutions
+
 1. [Challenge 1: QR Code Component](https://unrivaled-macaron-304227.netlify.app/01_qr_code_component/index.html) ([source](./01_qr_code_component/))
 2. [Challenge 2: Blog Preview Card](https://unrivaled-macaron-304227.netlify.app/02_blog_preview_card/index.html) ([source](./02_blog_preview_card/))
 3. *TODO* (*I'm going to come back to this when I have more time*) ([Scrimba's code-along](https://v2.scrimba.com/build-a-space-travel-website-c014))
@@ -27,6 +27,7 @@ By the end of this lab, you will be able to:
 - Optionally complete additional challenges to build more complex web components.
 
 ### Challenge Instructions
+
 1. Required: [QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 2. Required: [Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 3. Optional: [Space Tourism Multi-Page Website](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
@@ -41,7 +42,6 @@ After completing these challenges, take a few minutes to answer the following qu
 2. What challenges did you encounter when aligning your code with the design specifications?
 
 *Just normal CSS things. For the QR Code Component challenge, I implemented the image and the text below it in a `<figure>` element, and wrangling away the default styling took some effort!*
-
 
 3. How can the feedback and community resources on Frontend Mentor help you improve as a developer?
 
