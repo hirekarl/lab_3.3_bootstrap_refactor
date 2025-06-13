@@ -11,7 +11,7 @@
 
 View the deployed app at [unrivaled-macaron-304227.netlify.app](https://unrivaled-macaron-304227.netlify.app/), or view individual challenge submissions below.
 
-### Challenges
+### Challenge Solutions
 1. [Challenge 1: QR Code Component](https://unrivaled-macaron-304227.netlify.app/01_qr_code_component/index.html) ([source](./01_qr_code_component/))
 2. [Challenge 2: Blog Preview Card](https://unrivaled-macaron-304227.netlify.app/02_blog_preview_card/index.html) ([source](./02_blog_preview_card/))
 3. *TODO*
@@ -26,7 +26,7 @@ By the end of this lab, you will be able to:
 - Complete two foundational Frontend Mentor challenges using HTML and CSS.
 - Optionally complete additional challenges to build more complex web components.
 
-### Challenges
+### Challenge Instructions
 1. Required: [QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 2. Required: [Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 3. Optional: [Space Tourism Multi-Page Website](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
