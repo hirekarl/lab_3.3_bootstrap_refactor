@@ -1,16 +1,16 @@
 /* Globals */
 
-:root {
+/* :root {
     --color-white: hsl(0, 0%, 100%);
     --color-black: rgba(0, 0, 0, 0.05);
     --color-slate-300: hsl(212, 45%, 89%);
     --color-slate-500: hsl(216, 15%, 48%);
     --color-slate-900: hsl(218, 44%, 22%);
-}
+} */
 
 /* Root */
 
-html, body {
+/* html, body {
     margin: 0 auto;
     padding: 0;
 }
@@ -19,11 +19,11 @@ body {
     height: 100vh;
     width: auto;
     background-color: var(--color-slate-300);
-}
+} */
 
 /* Typography */
 
-.outfit-regular {
+/* .outfit-regular {
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -35,11 +35,11 @@ body {
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-}
+} */
 
 /* Card */
 
-.card-container {
+/* .card-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,7 +93,7 @@ body {
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.2px;
-}
+} */
 
 html {
     visibility: visible;

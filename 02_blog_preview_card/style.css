@@ -1,16 +1,16 @@
 /* Globals */
 
-:root {
+/* :root {
     --color-yellow: hsl(47, 88%, 63%);
     --color-white: hsl(0, 0%, 100%);
     --color-gray-500: hsl(0, 0%, 42%);
     --color-gray-950: hsl(0, 0%, 7%);
     --color-black: rgba(0, 0, 0, 1);
-}
+} */
 
 /* Root */
 
-html, body {
+/* html, body {
     margin: 0 auto;
     padding: 0;
 }
@@ -19,11 +19,11 @@ body {
     height: 100vh;
     width: auto;
     background-color: var(--color-yellow);
-}
+} */
 
 /* Typography */
 
-.figtree-medium {
+/* .figtree-medium {
   font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -35,11 +35,11 @@ body {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
-}
+} */
 
 /* Card */
 
-.card-container {
+/* .card-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,11 +66,11 @@ body {
         height: 501px;
         width: 327px;
     }
-}
+} */
 
 /* Blog */
 
-.blog-image {
+/* .blog-image {
     margin: 24px;
     height: 200px;
     width: 336px;
@@ -139,11 +139,11 @@ body {
     margin-top: 6px;
     margin-bottom: 0;
     max-width: 100%;
-}
+} */
 
 /* Author */
 
-.author {
+/* .author {
     position: absolute;
     bottom: 24px;
     margin: 0;
@@ -166,4 +166,4 @@ body {
 html {
     visibility: visible;
     opacity: 1;
-}
+} */
