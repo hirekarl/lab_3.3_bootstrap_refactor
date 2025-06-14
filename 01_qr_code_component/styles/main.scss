@@ -1,1 +1,44 @@
-@import "../node_modules/bootstrap/scss/bootstrap.scss";
+// Custom Colors
+
+$color-slate-300: hsl(212, 45%, 89%);
+$color-slate-500: hsl(216, 15%, 48%);
+$color-slate-900: hsl(218, 44%, 22%);
+
+// Bootstrap Default Color Overrides
+
+$primary: $color-slate-900;
+$secondary: $color-slate-500;
+$light: $color-slate-300;
+
+// Bootstrap Default Border Overrides
+
+$border-radius-xl: 1.25rem;
+$border-radius-lg: 0.625rem;
+
+// Bootstrap Default Typography Overrides
+
+$font-family-base: "Outfit", sans-serif;
+$font-size-base: 0.9375rem;
+$h1-font-size: 1.375rem;
+$line-height-base: 1.4;
+$line-height-sm: 1.2;
+
+// Import Bootstrap
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Custom Styles
+
+#card {
+    width: 20rem;
+    height: 31.1875rem;
+}
+
+#qr-code {
+    width: 18rem;
+    height: 18rem;
+}
+
+.ls-sm {
+    letter-spacing: 0.0125rem;
+}
