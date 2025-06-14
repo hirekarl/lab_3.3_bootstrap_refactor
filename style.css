@@ -1,14 +1,14 @@
 /* Globals */
 
-/* :root {
+:root {
     --color-charcoal: #171d22;
     --color-light-pink: #ffd0d6;
     --color-white: #fff;
-} */
+}
 
 /* Root */
 
-/* html, body {
+html, body {
     margin: 0;
     padding: 0;
 }
@@ -112,4 +112,4 @@ header {
 html {
     visibility: visible;
     opacity: 1;
-} */
+}

@@ -4,7 +4,7 @@
 2025-RTT-30  
 <date datetime="2025-06-14">2025-06-14</date>  
 
-![Two cards, one for each assigned challenge, over a pink background.]()
+![Two cards, one for each assigned challenge, over a pink background.](./images/project_preview.png)
 
 ## Overview
 ### Viewer Instructions
