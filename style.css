@@ -1,12 +1,12 @@
+/* Globals */
+
 :root {
     --color-charcoal: #171d22;
     --color-light-pink: #ffd0d6;
     --color-white: #fff;
 }
 
-.hidden {
-    display: none;
-}
+/* Root */
 
 html, body {
     margin: 0;
@@ -107,4 +107,9 @@ header {
     display: block;
     width: 100%;
     text-align: center;
+}
+
+html {
+    visibility: visible;
+    opacity: 1;
 }

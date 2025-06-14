@@ -1,4 +1,4 @@
-/* Root */
+/* Globals */
 
 :root {
     --color-white: hsl(0, 0%, 100%);
@@ -8,9 +8,7 @@
     --color-slate-900: hsl(218, 44%, 22%);
 }
 
-.hidden {
-    display: none;
-}
+/* Root */
 
 html, body {
     margin: 0 auto;
@@ -95,4 +93,9 @@ body {
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.2px;
+}
+
+html {
+    visibility: visible;
+    opacity: 1;
 }

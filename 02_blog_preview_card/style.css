@@ -8,10 +8,6 @@
     --color-black: rgba(0, 0, 0, 1);
 }
 
-.hidden {
-    display: none;
-}
-
 /* Root */
 
 html, body {
@@ -165,4 +161,9 @@ body {
 .author-name {
     font-size: 14px;
     line-height: 150%;
+}
+
+html {
+    visibility: visible;
+    opacity: 1;
 }
