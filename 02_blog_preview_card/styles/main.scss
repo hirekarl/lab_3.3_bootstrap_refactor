@@ -1,1 +1,65 @@
+// Custom Colors
+
+$color-yellow: hsl(47, 88%, 63%);
+$color-white: hsl(0, 0%, 100%);
+$color-gray-500: hsl(0, 0%, 42%);
+$color-gray-950: hsl(0, 0%, 7%);
+$color-black: rgba(0, 0, 0, 1);
+
+// Bootstrap Default Color Overrides
+
+$primary: $color-gray-950;
+$secondary: $color-gray-500;
+$light: $color-yellow;
+
+// Bootstrap Default Border Overrides
+
+$border-radius-xl: 1.25rem;
+$border-radius-lg: 0.625rem;
+
+// Bootstrap Default Typography Overrides
+
+$font-family-base: "Figtree", sans-serif;
+$line-height-base: 1.5;
+
+$font-sizes: (
+  1: 1.5rem,
+  2: 1rem,
+  3: 0.875rem,
+);
+
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+#card {
+  width: 24rem;
+  box-shadow: 8px 8px 0px 0px $color-black;
+}
+
+@media screen and (max-width: 375px) {
+    #card {
+        width: 20.4375rem;
+    }
+}
+
+.btn {
+    pointer-events: none;
+  &:hover {
+    background-color: $light;
+    border: 1px solid $light;
+  }
+}
+
+#blog-title {
+  color: $primary;
+  transition: all 100ms ease-in-out;
+  &:hover {
+    color: $light;
+    cursor: pointer;
+  }
+}
+
+#author-image {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 2rem;
+}
