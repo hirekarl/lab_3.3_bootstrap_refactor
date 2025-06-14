@@ -41,15 +41,15 @@ Once you have completed refactoring the projects, take a moment to review your w
 
 1. What challenges did you face when refactoring your code to use Bootstrap?
 
-
+*Mostly, it was just about finding the utility classes in the Bootstrap workflow that corresponded to the things I wanted to do (e.g., `position-absolute top-50 start-50 translate-middle` to place the card in the middle of the display). I found that using the grid utilities in Bootstrap provided a less smooth responsive experience than fixing the card widths per the specs, so I opted not to use them. The most challenging part was overriding the default spacing and font sizes from Bootstrap to correspond exactly to the sizes in the Figma spec. For these two challenges, I set `$primary`, `$secondary`, and `$light` to the color values associated with primary text color, secondary text color, and background color.*
 
 2. How did using Bootstrap utility classes and components simplify your styling process?
 
-
+*I found they didn't, in fact, simplify the styling process. As the defaults from Bootstrap did not match the specs (in terms of font sizing, spacing, border-radius, etc.), many of the utility class defaults needed to be overridden. I can see how a prototype drawn up with Bootstrap default spacing and sizing values in mind would benefit from these utility classes and components, however.*
 
 3. In what scenarios might you choose not to use Bootstrap and write custom CSS instead?
 
-
+*Any scenario in which a designer doesn't want to conform to Bootstrap defaults&mdash;or in which a non-grid-based design pattern is ideal&mdash;could stand to use vanilla CSS instead. For bigger projects, it might be useful to compile Bootstrap with alternative defaults to maintain consistency across app components.*
 
 ## Attributions
 - Challenges by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge). Coded by [Karl Johnson](https://github.com/hirekarl).
