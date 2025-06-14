@@ -1,0 +1,23 @@
+{
+  "name": "lab_3.3_bootstrap_refactor",
+  "version": "1.0.0",
+  "description": "[Karl Johnson](https://github.com/hirekarl/)   2025-RTT-30   <date datetime=\"2025-06-14\">2025-06-14</date>",
+  "homepage": "https://github.com/hirekarl/lab_3.3_bootstrap_refactor#readme",
+  "bugs": {
+    "url": "https://github.com/hirekarl/lab_3.3_bootstrap_refactor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirekarl/lab_3.3_bootstrap_refactor.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}
