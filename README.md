@@ -8,12 +8,12 @@
 
 ## Overview
 ### Viewer Instructions
-View the deployed app at [](), or view individual challenge submissions below.
+View the deployed app at [incomparable-jelly-3af253.netlify.app](https://incomparable-jelly-3af253.netlify.app/), or view individual challenge submissions below.
 
 ### Challenge Solutions
 
-1. [Challenge 1: QR Code Component]() ([source](./01_qr_code_component/))
-2. [Challenge 2: Blog Preview Card]() ([source](./02_blog_preview_card/))
+1. [Challenge 1: QR Code Component](https://incomparable-jelly-3af253.netlify.app/01_qr_code_component/index.html) ([source](./01_qr_code_component/))
+2. [Challenge 2: Blog Preview Card](https://incomparable-jelly-3af253.netlify.app/02_blog_preview_card/index.html) ([source](./02_blog_preview_card/))
 3. *TODO* (*I'm going to come back to this when I have more time*) ([Scrimba's code-along](https://v2.scrimba.com/build-a-space-travel-website-c014))
 
 ## Assignment
